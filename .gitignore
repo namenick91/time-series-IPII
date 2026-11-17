@@ -1,0 +1,16 @@
+.env
+.env.*
+
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+kernel-ipc-*
+
+z0/
+
+AGENTS.md
